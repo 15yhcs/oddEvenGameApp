@@ -1,0 +1,18 @@
+.box {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    border-radius: 3%;
+  }
+  
+.box div {
+    width: 100px;
+    height: 100px;
+}
+
+.h5{
+    background-color: aqua;
+}
+.justify-content-start{
+    align-items: start;
+}
